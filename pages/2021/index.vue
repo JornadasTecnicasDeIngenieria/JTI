@@ -1,12 +1,11 @@
 <template>
-  <div class="w-full min-h-screen hero bg-cover">
-  </div>
+  <div class="w-full min-h-screen hero bg-cover"></div>
 </template>
 
 <script lang="ts">
-import Vue from "vue"
+import Vue from 'vue'
 
-export default Vue.extend({})
+export default Vue.extend({});
 </script>
 
 <style>
@@ -48,6 +47,6 @@ export default Vue.extend({})
 }
 
 .hero {
-   background-image: url("https://i.picsum.photos/id/180/2400/1600.jpg?hmac=Ig-CXcpNdmh51k3kXpNqNqcDYTwXCIaonYiBOnLXBb8");
+  background-image: url("https://i.picsum.photos/id/180/2400/1600.jpg?hmac=Ig-CXcpNdmh51k3kXpNqNqcDYTwXCIaonYiBOnLXBb8");
 }
 </style>

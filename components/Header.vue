@@ -1,9 +1,9 @@
 <template>
   <nav class="flex items-center p-3 flex-wrap bg-gradient-to-r from-jti-black to-jti-black sticky top-0 w-full">
-    <a href="/2021/" class="mx-6  inline-flex items-center">
+    <a href="/2021/" class="mx-6 md:mx-10 inline-flex items-center">
       <img
         class="bg-contain h-20 w-32"
-        src="../assets/LogoJTI_negativo.png"
+        src="../assets/LogoJTI_negativo2.svg"
         alt="Jornada Técnica de Ingeniería"
       >
     <!--  <span class="text-jti-white h-12 w-40 ml-6 font-bold">Jornadas Técnica de Ingeniería</span>-->
@@ -22,7 +22,7 @@
         class="lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center lg:h-auto"
       >
         <a
-          href="/2021/sobre-el-evento"
+          href="/2021/programa"
           class="lg:w-auto w-full px-3 py-2 rounded items-center justify-center hover:bg-gray-800 hover:text-white"
         >
           <span>Programa</span>
