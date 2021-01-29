@@ -1,7 +1,11 @@
 <template>
+<<<<<<< HEAD
   <nav
     class="z-10 flex items-center p-3 flex-wrap bg-gradient-to-r from-jti-black to-jti-black sticky top-0 w-full"
   >
+=======
+  <nav class="flex items-center p-3 flex-wrap bg-gradient-to-r from-jti-black to-jti-black sticky top-0 w-full">
+>>>>>>> 954403950531e734dd1bf28d907c5e9c00c3e9d4
     <a href="/2021/" class="mx-6 md:mx-10 inline-flex items-center">
       <img
         class="bg-contain h-20 w-32"
@@ -25,7 +29,11 @@
       >
         <a
           href="/2021/programa"
+<<<<<<< HEAD
           class="text-center lg:w-auto w-full px-3 py-2 rounded textunderline"
+=======
+          class="lg:w-auto w-full px-3 py-2 rounded items-center justify-center hover:bg-gray-800 hover:text-white"
+>>>>>>> 954403950531e734dd1bf28d907c5e9c00c3e9d4
         >
           <span>Programa</span>
         </a>

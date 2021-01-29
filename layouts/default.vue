@@ -22,6 +22,7 @@ html {
 }
 
 .wrapper {
+<<<<<<< HEAD
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -45,5 +46,17 @@ h3 {
   font-size: 2em;
   font-family: "Montserrat";
   font-weight: bold;
+=======
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 3em;
+>>>>>>> 954403950531e734dd1bf28d907c5e9c00c3e9d4
 }
 </style>
