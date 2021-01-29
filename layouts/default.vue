@@ -1,7 +1,7 @@
 <template>
   <div>
     <Header />
-    <Nuxt />
+    <Nuxt class="bg-gray-100" />
     <Footer />
   </div>
 </template>
@@ -22,15 +22,28 @@ html {
 }
 
 .wrapper {
-    max-width: 1200px;
-    margin: 0 auto;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 3em;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+p {
+  font-family: "Raleway";
 }
 
 h2 {
-  font-size: 3em;
+  font-size: 2em;
+  font-family: "Montserrat";
+}
+
+h3 {
+  font-size: 2em;
+  font-family: "Montserrat";
+  font-weight: bold;
 }
 </style>
