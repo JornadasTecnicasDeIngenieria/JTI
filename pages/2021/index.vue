@@ -1,5 +1,4 @@
 <template>
-<<<<<<< HEAD
   <div>
     <div class="w-full bg-left min-h-screen hero bg-fix bg-cover relative">
     </div>
@@ -12,13 +11,6 @@
 
 <script lang="ts">
 import Vue from "vue";
-=======
-  <div class="w-full min-h-screen hero bg-cover"></div>
-</template>
-
-<script lang="ts">
-import Vue from 'vue'
->>>>>>> 954403950531e734dd1bf28d907c5e9c00c3e9d4
 
 export default Vue.extend({});
 </script>
@@ -51,7 +43,6 @@ export default Vue.extend({});
 }
 
 .hero {
-<<<<<<< HEAD
   background-image: url("~assets/fondo_jtiesit_texto.jpg");
 }
 
@@ -59,8 +50,5 @@ export default Vue.extend({});
   .bg-fix {
     background-position: 13% 0;
   }
-=======
-  background-image: url("https://i.picsum.photos/id/180/2400/1600.jpg?hmac=Ig-CXcpNdmh51k3kXpNqNqcDYTwXCIaonYiBOnLXBb8");
->>>>>>> 954403950531e734dd1bf28d907c5e9c00c3e9d4
 }
 </style>
