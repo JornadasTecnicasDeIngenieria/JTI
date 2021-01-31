@@ -31,8 +31,6 @@ module.exports = {
         '136': '34rem',
         '144': '36rem'
       }
-    },
-  },
-  variants: {},
-  plugins: [],
+    }
+  }
 }
