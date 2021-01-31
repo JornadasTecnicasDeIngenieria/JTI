@@ -9,8 +9,7 @@
     "generate": "nuxt-ts generate",
     "lint:js": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "lint": "npm run lint:js",
-    "test": "jest",
-    "deploy": "npm run generate && gh-pages -d dist"
+    "test": "jest"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.34",
@@ -35,7 +34,6 @@
     "babel-jest": "^26.5.0",
     "eslint": "^7.10.0",
     "eslint-plugin-nuxt": "^1.0.0",
-    "gh-pages": "^3.1.0",
     "jest": "^26.5.0",
     "ts-jest": "^26.4.1",
     "vue-jest": "^3.0.4"

@@ -2,14 +2,16 @@
   <nav
     class="z-10 flex items-center p-3 flex-wrap bg-gradient-to-r from-jti-black to-jti-black sticky top-0 w-full"
   >
-    <a href="/2021/" class="mx-6 md:mx-10 inline-flex items-center">
-      <img
-        class="bg-contain h-20 w-32"
-        src="../assets/LogoJTI_negativo2.svg"
-        alt="Jornada Técnica de Ingeniería"
-      />
-      <!--  <span class="text-jti-white h-12 w-40 ml-6 font-bold">Jornadas Técnica de Ingeniería</span>-->
-    </a>
+    <NuxtLink to="/2021/programa">
+      <div class="mx-6 md:mx-10 inline-flex items-center">
+        <img
+          class="bg-contain h-20 w-32"
+          src="../assets/LogoJTI_negativo2.svg"
+          alt="Jornada Técnica de Ingeniería"
+        >
+        <!--  <span class="text-jti-white h-12 w-40 ml-6 font-bold">Jornadas Técnica de Ingeniería</span>-->
+      </div>
+    </NuxtLink>
     <button
       class="text-jti-white inline-flex p-3 rounded lg:hidden ml-auto hover:text-white outline-none nav-toggler"
       @click="toggleMenu()"
@@ -23,24 +25,30 @@
       <div
         class="flex flex-wrap lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center lg:h-auto"
       >
-        <a
-          href="/2021/programa"
-          class="text-center lg:w-auto w-full px-3 py-2 rounded textunderline"
-        >
-          <span>Programa</span>
-        </a>
-        <a
-          href="/2021/organizacion"
-          class="text-center lg:w-auto w-full px-3 py-2 rounded textunderline"
-        >
-          <span>Organización</span>
-        </a>
-        <a
-          href="/2021/patrocinadores"
-          class="text-center lg:w-auto w-full px-3 py-2 rounded textunderline"
-        >
-          <span>Patrocinadores</span>
-        </a>
+        <NuxtLink to="/2021/programa">
+          <div
+            class="text-center lg:w-auto w-full px-3 py-2 rounded textunderline"
+          >
+            <span>Programa</span>
+          </div>
+        </NuxtLink>
+
+        <NuxtLink to="/2021/organizacion">
+          <div
+            class="text-center lg:w-auto w-full px-3 py-2 rounded textunderline"
+          >
+            <span>Organización</span>
+          </div>
+        </NuxtLink>
+
+        <NuxtLink to="/2021/patrocinadores">
+          <div
+            class="text-center lg:w-auto w-full px-3 py-2 rounded textunderline"
+          >
+            <span>Patrocinadores</span>
+          </div>
+        </NuxtLink>
+
         <a
           href="https://eventos.ull.es/31301/detail/jornada-tecnica-de-ingenieria.html"
           class="text-center lg:w-auto w-full px-3 py-2 rounded textunderline"
