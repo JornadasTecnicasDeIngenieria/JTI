@@ -41,19 +41,11 @@
           </div>
         </NuxtLink>
 
-<<<<<<< HEAD
         <NuxtLink to="/2021/participantes">
           <div
             class="text-center lg:w-auto w-full px-3 py-2 rounded textunderline"
           >
             <span>Participantes</span>
-=======
-        <NuxtLink to="/2021/patrocinadores">
-          <div
-            class="text-center lg:w-auto w-full px-3 py-2 rounded textunderline"
-          >
-            <span>Patrocinadores</span>
->>>>>>> b305212b8ff1f73e9ad6a0f84d32581d7d2ddcd5
           </div>
         </NuxtLink>
 
