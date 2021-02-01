@@ -1,4 +1,8 @@
-# JTI
+# Jornadas Técnicas de Ingeniería Website
+
+## Get started
+
+First, you should install npm in your system using [nvm](https://github.com/nvm-sh/nvm) (recommended).
 
 ## Build Setup
 
