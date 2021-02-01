@@ -18,6 +18,10 @@ module.exports = {
         // Marron: 291C04
       },
       spacing: {
+        '34': '8.5rem',
+        '36': '9rem',
+        '38': '9.5rem',
+        '52': '13rem',
         '60': '15rem',
         '68': '17rem',
         '72': '18rem',

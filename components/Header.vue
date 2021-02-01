@@ -2,11 +2,11 @@
   <nav
     class="z-10 flex items-center p-3 flex-wrap bg-gradient-to-r from-jti-black to-jti-black sticky top-0 w-full"
   >
-    <NuxtLink to="/2021/programa">
+    <NuxtLink to="/2021/">
       <div class="mx-6 md:mx-10 inline-flex items-center">
         <img
           class="bg-contain h-20 w-32"
-          src="../assets/LogoJTI_negativo2.svg"
+          src="../assets/LogoJTI_negativo.svg"
           alt="Jornada Técnica de Ingeniería"
         >
         <!--  <span class="text-jti-white h-12 w-40 ml-6 font-bold">Jornadas Técnica de Ingeniería</span>-->
@@ -23,7 +23,7 @@
       class="hidden top-navbar w-full lg:inline-flex lg:w-auto text-jti-white"
     >
       <div
-        class="flex flex-wrap lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center lg:h-auto"
+        class="flex flex-wrap flex-col lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center lg:h-auto"
       >
         <NuxtLink to="/2021/programa">
           <div
@@ -41,11 +41,11 @@
           </div>
         </NuxtLink>
 
-        <NuxtLink to="/2021/patrocinadores">
+        <NuxtLink to="/2021/participantes">
           <div
             class="text-center lg:w-auto w-full px-3 py-2 rounded textunderline"
           >
-            <span>Patrocinadores</span>
+            <span>Participantes</span>
           </div>
         </NuxtLink>
 

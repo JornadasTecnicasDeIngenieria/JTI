@@ -1,9 +1,9 @@
 <template>
   <div class="w-full min-h-screen">
-    <InformationBlock title="Patrocinadores" description="Quienes nos apoyan" />
+    <InformationBlock title="Participantes" description="Quienes nos apoyan" />
     <Sponsorship title="Organizan" :companies="organizan" />
     <Sponsorship title="Colaboran" :companies="colaboran" />
-    <Sponsorship title="Participan" :companies="participan"/>
+    <Sponsorship title="Participan" :companies="participan" />
   </div>
 </template>
 
