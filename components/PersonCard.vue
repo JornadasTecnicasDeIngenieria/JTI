@@ -1,6 +1,6 @@
 <template>
   <div
-    class="my-4 mx-2 md:m-8 flex flex-col bg-jti-black rounded-xl w-52 h-72 shadow-md"
+    class="my-4 mx-2 md:m-8 flex flex-col bg-jti-purple rounded-xl w-52 h-72 shadow-md"
   >
     <div
       class="w-38 h-38 rounded-full self-center bg-jti-blue mt-4 flex justify-center"
@@ -20,7 +20,7 @@
     </div>
 
     <div class="flex text-white justify-center pt-1">
-      <a :href="information.linkedin">
+      <a :href="information.linkedin" target="_blank">
         <font-awesome-icon
           class="mx-1 text-2xl self-center"
           :icon="['fab', 'linkedin']"

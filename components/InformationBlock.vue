@@ -1,30 +1,29 @@
 <template>
-  <div class="w-full h-80 bg-green-500">
-    <div class="wrapper flex flex-col h-full justify-center content-center flex-wrap md:content-start">
+  <div class="w-full h-80 bg-gradient-to-tr from-jti-blue to-purple-500">
+    <div
+      class="wrapper w-full flex flex-col h-full justify-center content-center flex-wrap lg:content-start"
+    >
       <h1>{{ title }}</h1>
-      <h2>{{ description }}</h2>
+      <h3 class="self-center text-xl md:text-3xl lg:self-start">{{ description }}</h3>
     </div>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'InformationBlock',
+  name: "InformationBlock",
   props: {
     title: {
       type: String,
-      default: ''
+      default: "",
     },
     description: {
       type: String,
-      default: ''
-    }
-  }
+      default: "",
+    },
+  },
 };
 </script>
 
 <style scoped>
-h1 {
-  font-weight: bold;
-}
 </style>

@@ -11,21 +11,23 @@
 export default {
   data() {
     return {
-      organizan: [{
-        "name": "ull",
-        "image": "~assets/colaboran/ull.jpg"
-      },
-      {
-        "name": "fifede",
-        "image": "~assets/colaboran/fifede.jpg"
-      },
-      {
-        "name": "cabildo",
-        "image": "~assets/colaboran/cabildo.jpg"
-      }],
+      organizan: [
+        {
+          name: "ull",
+          image: "../img/organizan/ull.png",
+        },
+        {
+          name: "fifede",
+          image: "../img/organizan/fifede.png",
+        },
+        {
+          name: "cabildo",
+          image: "../img/organizan/cabildo.png",
+        },
+      ],
       colaboran: [],
-      participan: []
+      participan: [],
     };
-  }
+  },
 };
 </script>
