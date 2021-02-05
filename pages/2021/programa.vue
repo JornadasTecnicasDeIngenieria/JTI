@@ -1,6 +1,7 @@
 <template>
   <div class="w-full min-h-screen">
     <InformationBlock title="Programa" description="Ponencias y talleres" />
-    <Schedule />
+    <Schedule title="Miércoles 17 de marzo" :table="[]" />
+    <Schedule title="Jueves 18 de marzo" :table="[]" />
   </div>
 </template>

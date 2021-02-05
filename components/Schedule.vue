@@ -1,60 +1,60 @@
 <template>
-  <div class="wrapper py-12">
-    <h1>Jueves 17 Marzo</h1>
+  <div class="wrapper py-6">
+    <h2 class="text-center">{{ this.title }}</h2>
     <div class="shadow overflow-hidden rounded border-b border-gray-200 my-8">
-      <table class="min-w-full bg-white">
-        <thead class="bg-jti-blue text-white text-center">
+      <table class="min-w-full bg-white text-center">
+        <thead class="bg-jti-blue text-white uppercase">
           <tr>
-            <th class="w-32 font-semibold text-sm py-3 px-4"></th>
-            <th class="uppercase font-semibold text-sm py-3 px-4">
+            <th class="w-40"></th>
+            <th class="py-3 px-4">
               Sala 1: GII
             </th>
-            <th class="font-semibold text-sm py-3 px-4">
-              SALA 2: GIQI
+            <th class="py-3 px-4">
+              Sala 2: GIQI
             </th>
-            <th class="font-semibold text-sm py-3 px-4">
-              SALA 3: GIEIA
+            <th class="py-3 px-4">
+              Sala 3: GIEIA
             </th>
-            <th class="font-semibold text-sm py-3 px-4">
-              SALA 4: GIM
+            <th class="py-3 px-4">
+              Sala 4: GIM
             </th>
           </tr>
         </thead>
         <tbody class="text-gray-700">
           <tr>
-            <td class="w-32 text-left py-3 px-4">15:00 - 16:00</td>
-            <td class="text-left py-3 px-4">TBA</td>
-            <td class="text-left py-3 px-4">TBA</td>
-            <td class="text-left py-3 px-4">TBA</td>
-            <td class="text-left py-3 px-4">TBA</td>
+            <td class="py-3 px-4 font-bold">15:00 - 16:00</td>
+            <td class="py-3 px-4"><b>Titulo</b></br>Ponencias</td>
+            <td class="py-3 px-4"><b>Titulo</b></br>Ponencias</td>
+            <td class="py-3 px-4"><b>Titulo</b></br>Ponencias</td>
+            <td class="py-3 px-4"><b>Titulo</b></br>Ponencias</td>
           </tr>
           <tr class="bg-gray-100">
-            <td class="w-32 text-left py-3 px-4">16:00 - 17:00</td>
-            <td class="text-left py-3 px-4">TBA</td>
-            <td class="text-left py-3 px-4">TBA</td>
-            <td class="text-left py-3 px-4">TBA</td>
-            <td class="text-left py-3 px-4">TBA</td>
+            <td class="py-3 px-4 font-bold">16:00 - 17:00</td>
+            <td class="py-3 px-4"><b>Titulo</b></br>Ponencias</td>
+            <td class="py-3 px-4"><b>Titulo</b></br>Ponencias</td>
+            <td class="py-3 px-4"><b>Titulo</b></br>Ponencias</td>
+            <td class="py-3 px-4"><b>Titulo</b></br>Ponencias</td>
           </tr>
 
           <tr>
-            <td class="w-32 text-left py-3 px-4">17:00 - 17:30</td>
-            <td class="text-center" colspan="4">DESCANSO</td>
+            <td class="py-3 px-4 font-bold">17:00 - 17:30</td>
+            <td class="text-center font-bold" colspan="4">DESCANSO</td>
           </tr>
 
           <tr class="bg-gray-100">
-            <td class="w-32 text-left py-3 px-4">17:30 - 18:30</td>
-            <td class="text-left py-3 px-4">TBA</td>
-            <td class="text-left py-3 px-4">TBA</td>
-            <td class="text-left py-3 px-4">TBA</td>
-            <td class="text-left py-3 px-4">TBA</td>
+            <td class="py-3 px-4 font-bold">17:30 - 18:30</td>
+            <td class="py-3 px-4"><b>Titulo</b></br>Ponencias</td>
+            <td class="py-3 px-4"><b>Titulo</b></br>Ponencias</td>
+            <td class="py-3 px-4"><b>Titulo</b></br>Ponencias</td>
+            <td class="py-3 px-4"><b>Titulo</b></br>Ponencias</td>
           </tr>
 
           <tr>
-            <td class="w-32 text-left py-3 px-4">18:30 - 19:30</td>
-            <td class="text-left py-3 px-4">TBA</td>
-            <td class="text-left py-3 px-4">TBA</td>
-            <td class="text-left py-3 px-4">TBA</td>
-            <td class="text-left py-3 px-4">TBA</td>
+            <td class="py-3 px-4 font-bold">18:30 - 19:30</td>
+            <td class="py-3 px-4"><b>Titulo</b></br>Ponencias</td>
+            <td class="py-3 px-4"><b>Titulo</b></br>Ponencias</td>
+            <td class="py-3 px-4"><b>Titulo</b></br>Ponencias</td>
+            <td class="py-3 px-4"><b>Titulo</b></br>Ponencias</td>
           </tr>
         </tbody>
       </table>
@@ -63,5 +63,27 @@
 </template>
 
 <script>
-export default {};
+export default {
+  name: "Schedule",
+  props: {
+    title: {
+      type: String,
+      required: true
+    },
+    table: {
+      type: Array,
+      required: true
+    },
+  },
+};
 </script>
+
+<style scoped>
+  th, tr {
+    font-family: 'Open Sans';
+  }
+
+  th {
+    font-weight: bold;
+  }
+</style>

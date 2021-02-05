@@ -8,16 +8,15 @@ module.exports = {
     extend: {
       colors: {
         'jti-blue': '#1d9cd8',
-        'jti-purple': '#612581',
-        'jti-dark': '#5c048c',
+        // 'jti-purple': '#612581',
+        'jti-purple': '#5c068c',
         'jti-white': '#f3eff5',
-        'jti-black': '#270e36'
-        // Violeta vino: 310D45
-        // Violet oscuro: #270e36
-        // Negro: 5c048c
-        // Marron: 291C04
+        'jti-gray': '#EEEEEE',
+        'jti-black': '#3D3D3D'
       },
       spacing: {
+        '05': '0.125rem',
+        '26': '6.5rem',
         '34': '8.5rem',
         '36': '9rem',
         '38': '9.5rem',

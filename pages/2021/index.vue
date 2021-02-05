@@ -1,47 +1,24 @@
 <template>
   <div>
-    <div class="w-full bg-left min-h-screen hero bg-fix bg-cover relative">
-    </div>
+    <div
+      class="w-full bg-left min-h-screen hero bg-fix bg-cover relative"
+    ></div>
     <div class="w-full bg-jti-blue h-2"></div>
-    <div class="wrapper">
-      <h1 class="pt-8">Jornadas Técnicas de Ingeniería</h1>
+    <AboutTheEvent />
+    <div class="w-full bg-white py-6">
+      <ValuesCards />
+      <Map />
     </div>
   </div>
 </template>
 
-<script lang="ts">
+<script>
 import Vue from "vue";
 
 export default Vue.extend({});
 </script>
 
 <style>
-.title {
-  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont,
-    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  display: block;
-  font-weight: 300;
-  font-size: 100px;
-  color: #35495e;
-  letter-spacing: 1px;
-}
-
-.line {
-
-}
-
-.subtitle {
-  font-weight: 300;
-  font-size: 42px;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
-
-.links {
-  padding-top: 15px;
-}
-
 .hero {
   background-image: url("~assets/fondo_jtiesit_texto.jpg");
 }
