@@ -1,6 +1,6 @@
 <template>
   <div class="wrapper py-6">
-    <h2 class="text-center">{{ this.title }}</h2>
+    <h2 class="text-center lg:text-left">{{ this.title }}</h2>
     <div class="shadow overflow-hidden rounded border-b border-gray-200 my-8">
       <table class="min-w-full bg-white text-center">
         <thead class="bg-jti-blue text-white uppercase">
