@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full h-80 bg-gradient-to-tr from-jti-blue to-purple-500">
+  <div class="w-full h-64 bg-gradient-to-tr from-jti-blue to-jti-purple-750">
     <div
       class="wrapper w-full flex flex-col h-full justify-center content-center flex-wrap lg:content-start"
     >

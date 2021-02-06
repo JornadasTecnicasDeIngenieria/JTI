@@ -1,6 +1,6 @@
 <template>
   <div class="wrapper py-8">
-    <h1>¿Qué es la JTI?</h1>
+    <h2>¿Qué es la JTI?</h2>
     <div class="w-full flex">
       <div class="w-1/2 text-justify">
         <p class="p-2">

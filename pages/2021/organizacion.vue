@@ -4,7 +4,7 @@
       title="Organización"
       description="El equipo que hace posible el evento"
     />
-    <div class="flex flex-row flex-wrap justify-center wrapper">
+    <div class="flex flex-row flex-wrap justify-center wrapper py-8">
       <PersonCard
         :image-url="require('~/assets/organizadores/andreshdez.jpeg')"
         v-bind:information="{
