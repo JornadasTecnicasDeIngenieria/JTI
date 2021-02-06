@@ -1,8 +1,8 @@
 <template>
   <div class="wrapper py-4">
-    <h3 class="p-4 text-jti-purple text-center lg:text-left">
+    <h2 class="p-4 text-center lg:text-left">
       {{ this.title }}
-    </h3>
+    </h2>
     <div class="bg-jti-blue w-full h-1 rounded-full"></div>
 
     <div ref="organizations" class="w-full flex justify-around flex-wrap">
@@ -33,7 +33,7 @@ export default {
   },
   mounted() {
     let parent = document.createElement("div");
-    parent.classList.add("flex", "flex-wrap", "justify-around");
+    parent.classList.add("flex", "flex-wrap", "justify-around", "w-full");
 
     // Puts three organizations logos per row, separated by a blue line
     for (let index = 0; index < this.companies.length; index++) {

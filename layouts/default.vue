@@ -33,7 +33,7 @@ h1 {
   font-size: 3em;
   font-family: "Montserrat";
   font-weight: bold;
-  color: #5c068c;
+  color: white;
 }
 
 h2 {
@@ -52,6 +52,7 @@ h2 {
 h3 {
   font-size: 2em;
   font-family: "Montserrat";
+  color:white;
 }
 
 h4 {

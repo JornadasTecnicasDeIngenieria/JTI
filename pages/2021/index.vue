@@ -1,9 +1,8 @@
 <template>
   <div>
-    <div
-      class="w-full bg-left min-h-screen hero bg-fix bg-cover relative"
-    ></div>
-    <div class="w-full bg-jti-blue h-2"></div>
+    <div class="flex w-full bg-left relative jti-height hero bg-fix bg-cover" />
+    <div class="w-full bg-jti-blue h-2 absolute -my-2" />
+
     <AboutTheEvent />
     <div class="w-full bg-white py-6">
       <ValuesCards />
@@ -27,5 +26,9 @@ export default Vue.extend({});
   .bg-fix {
     background-position: 13% 0;
   }
+}
+
+.jti-height {
+  min-height: calc(100vh - 111px);
 }
 </style>

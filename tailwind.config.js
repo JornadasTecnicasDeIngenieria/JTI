@@ -12,7 +12,8 @@ module.exports = {
         'jti-purple': '#5c068c',
         'jti-white': '#f3eff5',
         'jti-gray': '#EEEEEE',
-        'jti-black': '#3D3D3D'
+        'jti-black': '#3D3D3D',
+        'jti-purple-750': '#8544A9'
       },
       spacing: {
         '05': '0.125rem',
