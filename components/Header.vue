@@ -15,7 +15,7 @@
     </div>
     <button
       class="text-jti-white inline-flex p-3 rounded lg:hidden ml-auto hover:text-white outline-none nav-toggler"
-      @click="toggleMenu()"
+      @click="toggleMenu($event)"
     >
       <i ref="menuicon" class="material-icons">menu</i>
     </button>
@@ -77,14 +77,31 @@ export default {
   methods: {
     toggleMenu(event) {
       const activeElement = this.$refs.menu.querySelector(".active");
+      // if (event) {
+      //   if (
+      //     event.target.textContent !== "menu" ||
+      //     event.target.textContent !== "close"
+      //   ) {
+      //   }
+      // }
+
       if (activeElement) {
-        activeElement.classList.remove("active");
+        if (
+          event.target.tagName.toLowerCase() !== "i" &&
+          event.target.tagName.toLowerCase() !== "button"
+        ) {
+          activeElement.classList.remove("active");
+        }
       }
 
-      if (event) {
+      if (
+        event.target.tagName.toLowerCase() !== "i" &&
+        event.target.tagName.toLowerCase() !== "button"
+      ) {
         event.target.classList.add("active");
-        if (event.target.src && !this.toggle) return;
       }
+
+      if (event.target.src && !this.toggle) return;
 
       if (this.toggle) {
         this.$refs.navigation.classList.add("hidden");

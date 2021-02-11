@@ -45,6 +45,15 @@
       />
 
       <PersonCard
+        :image-url="require('~/assets/organizadores/adrianglez.jpeg')"
+        v-bind:information="{
+          title: 'Organizador',
+          name: 'Adrián González',
+          linkedin: 'https://www.linkedin.com/in/adri%C3%A1n-gonz%C3%A1lez-hern%C3%A1ndez/',
+        }"
+      />
+
+      <PersonCard
         :image-url="require('~/assets/organizadores/saracumplido.jpeg')"
         v-bind:information="{
           title: 'Asesora de diseño',
@@ -56,7 +65,7 @@
       <PersonCard
         :image-url="require('~/assets/organizadores/kevineliezer.jpeg')"
         v-bind:information="{
-          title: 'Coordinador JTI',
+          title: 'Organizador',
           name: 'Kevin Eliezer',
           linkedin: 'https://www.linkedin.com/in/kevineliezer/',
         }"
