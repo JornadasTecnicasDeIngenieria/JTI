@@ -5,7 +5,7 @@
     >
       <div class="w-72 py-6 px-4 flex flex-col">
         <font-awesome-icon
-          class="text-6xl text-center self-center mb-4 text-blue-700"
+          class="text-6xl text-center self-center mb-4 text-jti-blue"
           :icon="['fas', 'users']"
         />
         <h4 class="text-center mb-2">El mercado laboral</h4>
@@ -34,7 +34,7 @@
 
       <div class="w-72 py-8 px-4 flex flex-col">
         <font-awesome-icon
-          class="text-6xl text-center self-center mb-4 text-jti-blue"
+          class="text-6xl text-center self-center mb-4 text-green-600"
           :icon="['fas', 'chalkboard-teacher']"
         />
         <h4 class="text-center mb-2">Grandes profesionales</h4>
