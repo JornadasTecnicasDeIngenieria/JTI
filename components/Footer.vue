@@ -12,19 +12,19 @@
       </div>
       <div class="lg:w-1/2 h-full flex flex-col justify-center">
         <div class="space-x-8 text-3xl flex self-center">
-          <a href="">
+          <a href="https://www.linkedin.com/company/jtiesit/" target="_blank">
             <font-awesome-icon
               class="self-center"
               :icon="['fab', 'linkedin']"
             />
           </a>
-          <a href="https://www.instagram.com/jtiesit/">
+          <a href="https://www.instagram.com/jtiesit/" target="_blank">
             <font-awesome-icon
               class="self-center"
               :icon="['fab', 'instagram']"
             />
           </a>
-          <a href="https://twitter.com/jtiesit">
+          <a href="https://twitter.com/jtiesit" target="_blank">
             <font-awesome-icon class="self-center" :icon="['fab', 'twitter']" />
           </a>
         </div>

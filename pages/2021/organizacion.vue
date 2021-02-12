@@ -49,7 +49,8 @@
         v-bind:information="{
           title: 'Organizador',
           name: 'Adrián González',
-          linkedin: 'https://www.linkedin.com/in/adri%C3%A1n-gonz%C3%A1lez-hern%C3%A1ndez/',
+          linkedin:
+            'https://www.linkedin.com/in/adri%C3%A1n-gonz%C3%A1lez-hern%C3%A1ndez/',
         }"
       />
 
@@ -61,7 +62,24 @@
           linkedin: 'https://www.linkedin.com/in/sara-cumplido-1b2a57205/',
         }"
       />
-
+      <PersonCard
+        :image-url="require('~/assets/organizadores/daviddesousa.jpeg')"
+        v-bind:information="{
+          title: 'Organizador',
+          name: 'David De Sousa',
+          linkedin:
+            'https://www.linkedin.com/in/david-de-sousa-rodriguez-0906a3206/',
+        }"
+      />
+      <PersonCard
+        :image-url="require('~/assets/organizadores/kelly.jpeg')"
+        v-bind:information="{
+          title: 'Organizadora',
+          name: 'Kelly Fiesenig',
+          linkedin:
+            'https://www.linkedin.com/in/kelly-fiesenig-cabrera-7a29a7206/',
+        }"
+      />
       <PersonCard
         :image-url="require('~/assets/organizadores/kevineliezer.jpeg')"
         v-bind:information="{
