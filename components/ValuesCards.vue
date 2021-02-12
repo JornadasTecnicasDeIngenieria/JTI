@@ -24,6 +24,7 @@
           :icon="['fas', 'lightbulb']"
         />
         <h4 class="text-center mb-2">Tu empleo ideal</h4>
+        
         <p class="text-center">
           Seas industrial o informático, muchas son las opciones que se te abren
           al finalizar tu grado en la ESIT. Descubre de una manera más cercana
@@ -38,6 +39,7 @@
           :icon="['fas', 'chalkboard-teacher']"
         />
         <h4 class="text-center mb-2">Grandes profesionales</h4>
+
         <p class="text-center">
           Un gran número de profesionales del sector están invitados a dar su
           experiencia en el desempeño de sus labores así como contar cómo fue su

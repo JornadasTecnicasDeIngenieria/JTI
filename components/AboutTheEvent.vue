@@ -1,9 +1,10 @@
 <template>
   <div class="wrapper py-8">
     <h2 class="p-4">¿Qué es la JTI?</h2>
-    <div class="w-full flex flex-wrap mt-2 text-justify">
-      <div class="lg:w-1/2">
-        <p class="p-4 text-justify">
+
+    <div class="w-full flex flex-wrap mt-2">
+      <div class="lg:w-1/2 text-justify">
+        <p class="p-4">
           Las Jornadas Técnicas de Ingeniería comenzaron en el año 2019
           celebrándose a lo largo de un solo día. En ella participaron más de 20
           empresas, con presencia ininterrumpida en los Stands que se montaron
@@ -29,8 +30,8 @@
       </div>
     </div>
 
-    <div class="w-full flex flex-wrap py-4 lg:flex-row-reverse text-justify">
-      <div class="lg:w-1/2 p-4">
+    <div class="w-full flex flex-wrap py-4 lg:flex-row-reverse">
+      <div class="lg:w-1/2 text-justify p-4">
         <p>
           Su nacimiento se debe a que un grupo de alumnos de la ESIT requería
           más información sobre las empresas en las que en el futuro realizarían
@@ -53,8 +54,9 @@
         />
       </div>
     </div>
-    <div>
-      <p class="p-4 text-justify">
+
+    <div class="text-justify">
+      <p class="p-4">
         En 2020 la llegada del Coronavirus impidió la celebración de estas JTI,
         que veían incrementada la participación de empresas y ponentes. Pero
         este duro palo no sirvió de excusa para que en este 2021 la comisión
