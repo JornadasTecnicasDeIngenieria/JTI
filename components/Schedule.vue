@@ -68,22 +68,30 @@ export default {
   props: {
     title: {
       type: String,
-      required: true
+      required: true,
     },
     table: {
       type: Array,
-      required: true
+      required: true,
     },
   },
 };
 </script>
 
 <style scoped>
-  th, tr {
-    font-family: 'Open Sans';
-  }
+th,
+tr {
+  font-family: "Open Sans";
+}
 
-  th {
-    font-weight: bold;
+th {
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 760px),
+  (min-device-width: 768px) and (max-device-width: 1024px) {
+  div {
+    overflow-x: scroll;
   }
+}
 </style>

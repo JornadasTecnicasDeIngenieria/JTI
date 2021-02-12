@@ -1,6 +1,7 @@
 <template>
   <div class="wrapper py-8">
     <h2 class="p-4">¿Qué es la JTI?</h2>
+
     <div class="w-full flex flex-wrap mt-2">
       <div class="lg:w-1/2 text-justify">
         <p class="p-4">
@@ -53,6 +54,7 @@
         />
       </div>
     </div>
+
     <div class="text-justify">
       <p class="p-4">
         En 2020 la llegada del Coronavirus impidió la celebración de estas JTI,
