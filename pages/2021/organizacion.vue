@@ -62,6 +62,16 @@
           linkedin: 'https://www.linkedin.com/in/sara-cumplido-1b2a57205/',
         }"
       />
+
+      <PersonCard
+        :image-url="require('~/assets/organizadores/danielperez.jpeg')"
+        v-bind:information="{
+          title: 'Organizador',
+          name: 'Daniel Perez',
+          linkedin: 'https://www.linkedin.com/in/daniel-emilio-p%C3%A9rez-alvarado-269573206/',
+        }"
+      />
+
       <PersonCard
         :image-url="require('~/assets/organizadores/daviddesousa.jpeg')"
         v-bind:information="{
