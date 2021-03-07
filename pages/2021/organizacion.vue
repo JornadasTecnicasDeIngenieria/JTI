@@ -62,30 +62,14 @@
           linkedin: 'https://www.linkedin.com/in/sara-cumplido-1b2a57205/',
         }"
       />
-      <PersonCard
-        :image-url="require('~/assets/organizadores/daviddesousa.jpeg')"
-        v-bind:information="{
-          title: 'Organizador',
-          name: 'David De Sousa',
-          linkedin:
-            'https://www.linkedin.com/in/david-de-sousa-rodriguez-0906a3206/',
-        }"
-      />
-      <PersonCard
-        :image-url="require('~/assets/organizadores/kelly.jpeg')"
-        v-bind:information="{
-          title: 'Organizadora',
-          name: 'Kelly Fiesenig',
-          linkedin:
-            'https://www.linkedin.com/in/kelly-fiesenig-cabrera-7a29a7206/',
-        }"
-      />
+
       <PersonCard
         :image-url="require('~/assets/organizadores/danielperez.jpeg')"
         v-bind:information="{
           title: 'Organizador',
           name: 'Daniel Perez',
-          linkedin: 'https://www.linkedin.com/in/daniel-emilio-p%C3%A9rez-alvarado-269573206/',
+          linkedin:
+            'https://www.linkedin.com/in/daniel-emilio-p%C3%A9rez-alvarado-269573206/',
         }"
       />
 
@@ -113,6 +97,14 @@
           title: 'Organizador',
           name: 'Kevin Eliezer',
           linkedin: 'https://www.linkedin.com/in/kevineliezer/',
+        }"
+      />
+      <PersonCard
+        :image-url="require('~/assets/organizadores/luisana.jpeg')"
+        v-bind:information="{
+          title: 'Organizadora',
+          name: 'Luisana Lara',
+          linkedin: 'https://www.linkedin.com/in/luisanalarab/',
         }"
       />
       <PersonCard
