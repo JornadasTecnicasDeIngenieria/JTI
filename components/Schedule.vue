@@ -15,9 +15,6 @@
         <div>
           <b>Ingeniería Mecánica (GIM):</b> <a class="text-blue-700" href="https://meet.google.com/hhx-nhqj-rut" target="blank_">https://meet.google.com/hhx-nhqj-rut</a>
         </div>
-        <div>
-          <b>Enlace Talleres:</b> <a class="text-blue-700" href="https://meet.google.com/ggf-iwty-wyi" target="blank_">https://meet.google.com/ggf-iwty-wyi</a>
-        </div>
       </div>
     </div>
 
