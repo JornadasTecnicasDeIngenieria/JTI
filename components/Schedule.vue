@@ -2,7 +2,7 @@
   <div>
     <div class="wrapper pt-6">
       <h2 class="text-center lg:text-left">Salas Meet</h2>
-      <div class="py-3">
+      <div class="py-3 px-4 md:px-0">
         <div>
           <b>Ingeniería Informatica (GII):</b>  <a class="text-blue-700" href="https://meet.google.com/hfi-dsrs-wws" target="blank_">https://meet.google.com/hfi-dsrs-wws</a>
         </div>
@@ -12,12 +12,14 @@
         <div>
           <b>Ingeniería Electrónica Industrial y Automática (GIEIA):</b> <a class="text-blue-700" href="https://meet.google.com/zoq-jdny-byk" target="blank_">https://meet.google.com/zoq-jdny-byk</a>
         </div>
+        <div>
           <b>Ingeniería Mecánica (GIM):</b> <a class="text-blue-700" href="https://meet.google.com/hhx-nhqj-rut" target="blank_">https://meet.google.com/hhx-nhqj-rut</a>
         </div>
         <div>
           <b>Enlace Talleres:</b> <a class="text-blue-700" href="https://meet.google.com/ggf-iwty-wyi" target="blank_">https://meet.google.com/ggf-iwty-wyi</a>
         </div>
       </div>
+    </div>
 
     <div class="wrapper py-6">
       <h2 class="text-center lg:text-left">Miércoles 17 de marzo</h2>
