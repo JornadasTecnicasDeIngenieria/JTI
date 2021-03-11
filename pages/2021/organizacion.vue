@@ -2,7 +2,7 @@
   <div class="w-full min-h-screen">
     <InformationBlock
       title="Organización"
-      description="El equipo que hace posible el evento"
+      description="El equipo que ha trabajado en el evento"
     />
     <div class="flex flex-row flex-wrap justify-center wrapper py-8">
       <PersonCard

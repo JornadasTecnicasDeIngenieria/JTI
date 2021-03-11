@@ -1,8 +1,7 @@
 <template>
   <div class="w-full min-h-screen">
-    <InformationBlock title="Participantes" description="Quienes nos apoyan" />
+    <InformationBlock title="Participantes" description="Quienes hacen posible el evento" />
     <Sponsorship title="Organizan" :companies="organizan" />
-    <Sponsorship title="Colaboran" :companies="colaboran" />
     <Sponsorship title="Participan" :companies="participan" />
   </div>
 </template>
@@ -25,8 +24,22 @@ export default {
           image: "../img/organizan/cabildo.png",
         },
       ],
-      colaboran: [],
-      participan: [],
+      participan: [{
+        name: "tenerife juega",
+        image: "../img/participan/logotenerifejuega.png"
+      },
+      {
+        name: "Innovalia",
+        image: "../img/participan/logoinnovalia.jpg"
+      },
+      {
+        name: "Scytl",
+        image:  "../img/participan/logoscytl.jpg"
+      },
+      {
+        name: "Metrotenerife",
+        image:  "../img/participan/logometrotenerife.jpg"
+      }],
     };
   },
 };
