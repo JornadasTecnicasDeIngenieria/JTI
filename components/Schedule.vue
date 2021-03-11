@@ -157,6 +157,7 @@
             <a
               class="text-blue-700"
               href="https://zfrmz.eu/MFuO3gq8GtI4vfFsAgyP"
+              target="blank_"
               >https://zfrmz.eu/MFuO3gq8GtI4vfFsAgyP</a
             >
           </div>
@@ -175,6 +176,7 @@
             <a
               class="text-blue-700"
               href="https://zfrmz.eu/4zPnIU1lbBgPiftz3q4m"
+              target="blank_"
               >https://zfrmz.eu/4zPnIU1lbBgPiftz3q4m</a
             >
           </div>
