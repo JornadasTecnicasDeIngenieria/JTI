@@ -68,7 +68,7 @@
 
             <tr>
               <td class="py-3 px-4 font-bold">18:30 - 19:30</td>
-              <td class="py-3 px-4"><b>Itinerarios de Informática</b></br>Experiencia de los alumnos</td>
+              <td class="py-3 px-4"><b>Itinerarios de Informática</b></br>Experiencia del alumnado</td>
               <td class="py-3 px-4"><b>Grupo DISA</b></td>
               <td class="py-3 px-4"><b>Mesa redonda en Energías Renovables</b></br>Capitán renovable</td>
               <td class="py-3 px-4"><b>Ingenieros en diseño, ¿qué somos?</b></br>Alejandro Martí Gil</td>
