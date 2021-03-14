@@ -2,7 +2,11 @@
   <div>
     <div class="wrapper pt-6">
       <h2 class="text-center lg:text-left">Salas Meet</h2>
+
       <div class="py-3 px-4 md:px-0">
+        <div>
+          <b>Inscripción (si no eres alumno de la ULL): </b><a class="text-blue-700" href="https://docs.google.com/forms/d/e/1FAIpQLSfu06yTzmYkH2Ct3etzx9-I3V9Hv-bIxSpLenQl03jXL_2NOQ/viewform" target="blank_">aquí</a>
+        </div>
         <div>
           <b>Ingeniería Informatica (GII):</b>  <a class="text-blue-700" href="https://meet.google.com/hfi-dsrs-wws" target="blank_">https://meet.google.com/hfi-dsrs-wws</a>
         </div>
@@ -150,7 +154,7 @@
             FIWARE.
           </div>
           <div><b>Fecha: </b> Martes 16 de Marzo (16:00)</div>
-          <div><b>Requisitos: </b> Sistema operativo Linux</div>
+          <div><b>Requisitos: </b> Sistema operativo Linux con Postman, Docker y Docker-compose.</div>
           <div>
             <b>Inscripción: </b>
             <a
