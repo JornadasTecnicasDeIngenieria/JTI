@@ -2,6 +2,7 @@
   <div class="w-full min-h-screen">
     <InformationBlock title="Participantes" description="Quienes hacen posible el evento" />
     <Sponsorship title="Organizan" :companies="organizan" />
+    <Sponsorship title="Colaboran" :companies="colaboran" />
     <Sponsorship title="Participan" :companies="participan" />
   </div>
 </template>
@@ -22,6 +23,20 @@ export default {
         {
           name: "cabildo",
           image: "../img/organizan/cabildo.png",
+        },
+      ],
+      colaboran: [
+        {
+          name: "COITIC",
+          image: "../img/colaboran/COITIC.png",
+        },
+        {
+          name: "COITITF",
+          image: "../img/colaboran/COITITF.png",
+        },
+        {
+          name: "Recinto Ferial",
+          image: "../img/colaboran/RecintoFerial.png",
         },
       ],
       participan: [{
