@@ -92,6 +92,15 @@
         }"
       />
       <PersonCard
+        :image-url="require('~/assets/organizadores/estheracosta.jpeg')"
+        v-bind:information="{
+          title: 'Organizadora',
+          name: 'Esther Acosta',
+          linkedin:
+            'https://www.linkedin.com/in/esther-acosta-febles-792a39208/',
+        }"
+      />
+      <PersonCard
         :image-url="require('~/assets/organizadores/kevineliezer.jpeg')"
         v-bind:information="{
           title: 'Organizador',
