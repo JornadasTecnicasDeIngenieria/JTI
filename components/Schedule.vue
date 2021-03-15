@@ -51,7 +51,7 @@
             </tr>
             <tr class="bg-gray-100">
               <td class="py-3 px-4 font-bold">16:00 - 17:00</td>
-              <td class="py-3 px-4"><b>Seguridad y verificabilidad en voto electrónico</b></br>Jordi Cucurrul (Scytl)</td>
+              <td class="py-3 px-4"><b>Seguridad y verificabilidad en voto electrónico</b></br>Jordi Cucurull (Scytl)</td>
               <td class="py-3 px-4"><b>Compañía Cervecera de Canarias (CCC)</b></td>
               <td class="py-3 px-4"><b>Trend Robotics</b></td>
               <td class="py-3 px-4"><b>Teidesat</b></br></td>
@@ -73,7 +73,7 @@
             <tr>
               <td class="py-3 px-4 font-bold">18:30 - 19:30</td>
               <td class="py-3 px-4"><b>Itinerarios de Informática</b></br>Experiencia del alumnado</td>
-              <td class="py-3 px-4"><b>Grupo DISA</b></td>
+              <td class="py-3 px-4"><b>Grupo DISA (Informática)</b></td>
               <td class="py-3 px-4"><b>Mesa redonda en Energías Renovables</b></br>Capitán renovable</td>
               <td class="py-3 px-4"><b>Ingenieros en diseño, ¿qué somos?</b></br>Alejandro Martí Gil</td>
             </tr>
