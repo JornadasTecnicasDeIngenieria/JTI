@@ -133,7 +133,7 @@
             <tr>
               <td class="py-3 px-4 font-bold">18:30 - 19:30</td>
               <td class="py-3 px-4" colspan="2"><b>Psicología Laboral</b></td>
-              <td class="py-3 px-4"><b>ITER</b></td>
+              <td class="py-3 px-4"><b>Mesa redonda: Cómo enfrentarse a un TFG/TFM</b><br>Luisana Lara</td>
               <td class="py-3 px-4"><b>FormulaStudent</b></br>MotoStudent</td>
             </tr>
           </tbody>
