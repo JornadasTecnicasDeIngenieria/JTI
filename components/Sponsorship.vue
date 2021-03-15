@@ -48,7 +48,7 @@ export default {
       } else if ((index + 1) % 3 === 0) {
         this.$refs.organizations.appendChild(parent);
         parent = document.createElement("div");
-        parent.classList.add("flex", "flex-wrap", "justify-around");
+        parent.classList.add("flex", "flex-wrap", "justify-around", "w-full");
         let line = document.createElement("div");
         line.classList.add("h-05", "bg-jti-blue", "w-full");
         this.$refs.organizations.appendChild(line);
