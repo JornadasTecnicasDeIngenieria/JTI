@@ -85,7 +85,7 @@ Sección Industrial)
 </br>Sergio Díaz
 </br>Rebeca Alcaide
 </td>
-              <td class="py-3 px-4"><b>Mesa redonda: ¿Cómo enfrentarse a un TFG/TFM?</b></br>Luisana Lara Briceño
+              <td class="py-3 px-4"><b>Mesa redonda: Cómo enfrentarse a un TFG/TFM</b></br>Luisana Lara Briceño
 </br>(Estudiante ULL)
 </br>Rita Ramírez Akhmoldaeva </br>(Estudiante ULL)
 </br>Humberto José González Olivera
