@@ -30,31 +30,35 @@
             <tr>
               <th class="w-40"></th>
               <th class="py-3 px-4 w-60">
-                Sala 1: GII
+                <a href="https://meet.google.com/hfi-dsrs-wws" target="blank_">Sala 1: GII</a>
               </th>
               <th class="py-3 px-4 w-60">
-                Sala 2: GIQI
+                <a href="https://meet.google.com/qyc-xsbq-xss" target="blank_">Sala 2: GIQI</a>
               </th>
               <th class="py-3 px-4 w-60">
-                Sala 3: GIEIA
+                <a href="https://meet.google.com/zoq-jdny-byk" target="blank_">Sala 3: GIEIA</a>
               </th>
               <th class="py-3 px-4 w-60">
-                Sala 4: GIM
+                <a href="https://meet.google.com/hhx-nhqj-rut" target="blank_">Sala 4: GIM</a>
               </th>
             </tr>
           </thead>
           <tbody class="text-gray-700">
             <tr>
               <td class="py-3 px-4 font-bold">15:00 - 16:00</td>
-              <td class="py-3 px-4"><b>Prácticas Externas</b></br>Carmen Elvira Ramos Domínguez</td>
-              <td class="py-3 px-4" colspan="3"><b>Prácticas Externas</b></br>Vicente José Romero Ternero</td>
+              <td class="py-3 px-4"><b>Prácticas Externas</b></br>Carmen Elvira Ramos Domínguez</br>(Subdirectora Relaciones Institucionales
+Sección Informática)
+</td>
+              <td class="py-3 px-4" colspan="3"><b>Prácticas Externas</b></br>Vicente José Romero Ternero</br> (Subdirector Relaciones Institucionales
+Sección Industrial)
+</td>
             </tr>
             <tr class="bg-gray-100">
               <td class="py-3 px-4 font-bold">16:00 - 17:00</td>
-              <td class="py-3 px-4"><b>Seguridad y verificabilidad en voto electrónico</b></br>Jordi Cucurull (Scytl)</td>
-              <td class="py-3 px-4"><b>Compañía Cervecera de Canarias (CCC)</b></td>
-              <td class="py-3 px-4"><b>Trend Robotics</b></td>
-              <td class="py-3 px-4"><b>Teidesat</b></br></td>
+              <td class="py-3 px-4"><b>Seguridad y verificabilidad en voto electrónico</b></br>Jordi Cucurull <br>(Scytl)</td>
+              <td class="py-3 px-4"><b>Compañía Cervecera de Canarias</b></br>Iván Lugo Hernández</br>(CCC)</td>
+              <td class="py-3 px-4"><b>Tu creatividad es la innovación</b></br>Javier Lamas</br>(Trend Robotics)</td>
+              <td class="py-3 px-4"><b>TEIDESAT, primer nanosatélite de estudiantes de universidades canarias</b></br>Joshua Barrios Pérez</br>(Egresado ULL - IAC)</td>
             </tr>
 
             <tr>
@@ -64,18 +68,30 @@
 
             <tr class="bg-gray-100">
               <td class="py-3 px-4 font-bold">17:30 - 18:30</td>
-              <td class="py-3 px-4"><b>Biotecnología</b></br>Héctor Rodríguez Pérez</td>
-              <td class="py-3 px-4"><b>Schreiber de Canarias</b></td>
-              <td class="py-3 px-4"><b>Red Eléctrica</b></td>
-              <td class="py-3 px-4"><b>Exalumna:</b></br>Cintia Pérez Gutiérrez</td>
+              <td class="py-3 px-4"><b>Bioinformática para informáticos. Nuestra aportación para la nueva era.</b></br>Héctor Rodríguez Pérez</br>(Egresado ULL)</td>
+              <td class="py-3 px-4"><b>Schreiber de Canarias</b></br>Riquelme Elías</br>(Egresado ULL)</td>
+              <td class="py-3 px-4"><b>Conociendo a Red Eléctrica Corporación</b></br>Juan Fernando Figueras Torres</br>(Profesor ULL)</td>
+              <td class="py-3 px-4"><b>¿Qué te espera tras el fin de la carrera?</b></br>Cintia Pérez Gutiérrez</br>(Egresada ULL - HP)</td>
             </tr>
 
             <tr>
               <td class="py-3 px-4 font-bold">18:30 - 19:30</td>
-              <td class="py-3 px-4"><b>Itinerarios de Informática</b></br>Experiencia del alumnado</td>
-              <td class="py-3 px-4"><b>Grupo DISA (Informática)</b></td>
-              <td class="py-3 px-4"><b>Mesa redonda: Cómo enfrentarse a un TFG/TFM</b></td>
-              <td class="py-3 px-4"><b>Ingenieros en diseño, ¿qué somos?</b></br>Alejandro Martí Gil</td>
+              <td class="py-3 px-4"><b>Itinerarios de Informática:</b> experiencia del alumnado</br></br><b>Alternativa: </b> Charla DISA</td>
+              <td class="py-3 px-4"><b>Conoce al Grupo DISA</b></br>Alberto Sabaté
+</br>Tinerfe Martín
+</br>Carlos Jara
+</br>Luis Medina Moreno
+</br>Jonathan Clemente
+</br>Sergio Díaz
+</br>Rebeca Alcaide
+</td>
+              <td class="py-3 px-4"><b>Mesa redonda: ¿Cómo enfrentarse a un TFG/TFM?</b></br>Luisana Lara Briceño
+</br>(Estudiante ULL)
+</br>Rita Ramírez Akhmoldaeva </br>(Estudiante ULL)
+</br>Humberto José González Olivera
+</br>(Egresado ULL)
+</td>
+              <td class="py-3 px-4"><b>Ingenieros en diseño, ¿qué somos?</b></br>Alejandro Martí Gil</br>(Estudiante ULPGC)</td>
             </tr>
           </tbody>
         </table>
@@ -90,30 +106,32 @@
             <tr>
               <th class="w-40"></th>
               <th class="py-3 px-4 w-60">
-                Sala 1: GII
+                <a href="https://meet.google.com/hfi-dsrs-wws" target="blank_">Sala 1: GII</a>
               </th>
               <th class="py-3 px-4 w-60">
-                Sala 2: GIQI
+                <a href="https://meet.google.com/qyc-xsbq-xss" target="blank_">Sala 2: GIQI</a>
               </th>
               <th class="py-3 px-4 w-60">
-                Sala 3: GIEIA
+                <a href="https://meet.google.com/zoq-jdny-byk" target="blank_">Sala 3: GIEIA</a>
               </th>
               <th class="py-3 px-4 w-60">
-                Sala 4: GIM
+                <a href="https://meet.google.com/hhx-nhqj-rut" target="blank_">Sala 4: GIM</a>
               </th>
             </tr>
           </thead>
           <tbody class="text-gray-700">
             <tr>
               <td class="py-3 px-4 font-bold">15:00 - 16:00</td>
-              <td class="py-3 px-4"><b>COITIC</b></br>Juan Crespo Naón</td>
-              <td class="py-3 px-4" colspan="3"><b>COITITF y MUPITI</b></br>Antonio M. Rodríguez Hernández</td>
+              <td class="py-3 px-4"><b>COITIC</b></br>Juan Crespo Naón (Decano)</td>
+              <td class="py-3 px-4" colspan="3"><b>COITITF y MUPITI</b></br>Antonio M. Rodríguez Hernández</br>(Decano y Vicepresidente)</td>
             </tr>
             <tr class="bg-gray-100">
               <td class="py-3 px-4 font-bold">16:00 - 17:00</td>
-              <td class="py-3 px-4"><b>Acid Tango</b></br>Alejandro González</td>
-              <td class="py-3 px-4"><b>Ejercicio profesional en la Ingeniería de Proyectos</b><br>IGS Ingenieros</td>
-              <td class="py-3 px-4"><b>Ferrovial</b></td>
+              <td class="py-3 px-4"><b>Cómo cambiar el mundo con lo que he aprendido en la carrera</b></br>Alejandro González</br>(Acid Tango)</td>
+              <td class="py-3 px-4"><b>La ingeniería de proyectos. El ingeniero y la empresa de ingeniería</b><br>Juan Domingo Acosta García<br>IGS Ingenieros</td>
+              <td class="py-3 px-4"><b>¿Quiénes somos y qué buscamos?</b><br>Fátima Fuertes Neira<br>
+(Ferrovial)
+</td>
               <td class="py-3 px-4"><b>Ingeniería y mantenimiento</b><br>Sara Estévez Pérez (Metrotenerife)</td>
             </tr>
 
@@ -124,17 +142,29 @@
 
             <tr class="bg-gray-100">
               <td class="py-3 px-4 font-bold">17:30 - 18:30</td>
-              <td class="py-3 px-4"><b>Trabajar fuera, la otra alternativa</b></br>Raúl Marrero Rodríguez (RIOT)</td>
-              <td class="py-3 px-4"><b>Frimancha Canarias</b></td>
-              <td class="py-3 px-4"><b>Instituto Astrofísica de Canarias</b></br>Jose Alfonso López Aguerri</td>
-              <td class="py-3 px-4"><b>Optimización Topológica</b></br>Francisco J. Gala (ORIGEN CAD CAM CAE)</td>
+              <td class="py-3 px-4"><b>Trabajar fuera, la otra alternativa</b></br>Raúl Marrero Rodríguez<br>(Egresado ULL - Riot Games)</td>
+              <td class="py-3 px-4"><b>Frimancha Canarias</b><br>Christian Martín González</td>
+              <td class="py-3 px-4"><b>El Área de Instrumentación del Instituto de Astrofísica de Canarias</b></br>Jose Alfonso López Aguerri<br>(IAC)</td>
+              <td class="py-3 px-4"><b>Optimización Topológica</b></br>Francisco José Gala (ORIGEN CAD CAM CAE)</td>
             </tr>
 
             <tr>
               <td class="py-3 px-4 font-bold">18:30 - 19:30</td>
-              <td class="py-3 px-4" colspan="2"><b>Psicología Laboral</b></td>
-              <td class="py-3 px-4"><b>Mesa redonda en Energías Renovables</b></br>Capitán renovable</td>
-              <td class="py-3 px-4"><b>FormulaStudent</b></br>MotoStudent</td>
+              <td class="py-3 px-4" colspan="2"><b>Psicología Laboral</b><br>Eduardo Rosado Cruz
+<br>(Egresado ULL)
+</td>
+              <td class="py-3 px-4"><b>Mesa redonda en Energías Renovables</b></br>Marcial González de Armas
+<br>(Egresado ULL - Capitán Renovable)
+<br>Ricardo Luis Guerrero Lemus
+<br>(Catedrático ULL)
+<br>Elena Rodriguez Clemente
+<br>(Egresada ULL)
+</td>
+              <td class="py-3 px-4"><b>Proyectos ESIT: ULL-Dynamics</b></br>Guillermo Coba Afonso
+<br>(Estudiante ULL)
+<br>Yared Adrián Pestana Santana
+<br>(Estudiante ULL)
+</td>
             </tr>
           </tbody>
         </table>

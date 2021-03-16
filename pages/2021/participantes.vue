@@ -60,8 +60,28 @@ export default {
           image: "/img/participan/logometrotenerife.jpg",
         },
         {
-          name: "mnx",
-          image: "/img/participan/mnx.png",
+          name: "DISA",
+          image: "/img/participan/Grupo-DISA.jpg",
+        },
+        {
+          name: "Acid Tango",
+          image: "/img/participan/acidtango.png",
+        },
+        {
+          name: "ihubs",
+          image: "/img/participan/logo-ihubs.png",
+        },
+        {
+          name: "FiiHUB",
+          image: "/img/participan/LOGO_FiiHUB.png",
+        },
+        {
+          name: "IAC",
+          image: "/img/participan/logoiac.jpg",
+        },
+        {
+          name: "Trendrobotics",
+          image: "/img/participan/trendrobotics.png",
         },
       ],
     };
