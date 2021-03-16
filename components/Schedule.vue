@@ -53,7 +53,7 @@
                 15:00 - 16:00
               </td>
               <td class="py-3 px-4">
-                <b>Prácticas Externas</b></br>Carmen Elvira Ramos Domínguez</br>(Sección informática)
+                <b>Prácticas Externas</b></br>Carmen Elvira Ramos Dguez.</br>(Sección informática)
               </td>
               <td class="py-3 px-4" colspan="3">
                 <b>Prácticas Externas</b></br>Vicente José Romero Ternero</br> (Sección Industrial)
@@ -91,13 +91,13 @@
                 17:30 - 18:30
               </td>
               <td class="py-3 px-4">
-                <b>Bioinformática para informáticos. Nuestra aportación para la nueva era.</b></br>Héctor Rodríguez Pérez</br>(Egresado ULL)
+                <b>Bioinformática para <br>informáticos. <br>Nuestra aportación<br> para la nueva era.</b></br>Héctor Rodríguez Pérez</br>(Egresado ULL)
               </td>
               <td class="py-3 px-4">
                 <b>Schreiber de Canarias</b></br>Riquelme Elías</br>(Egresado ULL)
               </td>
               <td class="py-3 px-4">
-                <b>Conociendo a Red Eléctrica Corporación</b></br>Juan Fernando Figueras Torres</br>(Profesor ULL)
+                <b>Conociendo a<br>sRed Eléctrica Corporación</b></br>Juan Fernando Figueras Torres</br>(Profesor ULL)
               </td>
               <td class="py-3 px-4">
                 <b>¿Qué te espera tras el fin de la carrera?</b></br>Cintia Pérez Gutiérrez</br>(Egresada ULL - HP)
@@ -121,7 +121,7 @@
                 </br>Rebeca Alcaide
               </td>
               <td class="py-3 px-4">
-                <b>Mesa redonda: Cómo enfrentarse a un TFG/TFM</b></br>Luisana Lara Briceño
+                <b>Mesa redonda:</br> Cómo enfrentarse</br> a un TFG/TFM</b></br>Luisana Lara Briceño
                 </br>(Estudiante ULL)
                 </br>Rita Ramírez Akhmoldaeva </br>(Estudiante ULL)
                 </br>Humberto José González Olivera
@@ -176,10 +176,10 @@
                 16:00 - 17:00
               </td>
               <td class="py-3 px-4">
-                <b>Cómo cambiar el mundo con lo que he aprendido en la carrera</b></br>Alejandro González</br>(Acid Tango)
+                <b>Cómo cambiar el mundo<br>con lo que he aprendido<br> en la carrera</b></br>Alejandro González</br>(Acid Tango)
               </td>
               <td class="py-3 px-4">
-                <b>La ingeniería de proyectos. El ingeniero y la empresa de ingeniería</b><br>Juan Domingo Acosta García<br>(IGS Ingenieros)
+                <b>La ingeniería de proyectos.<br> El ingeniero y la empresa<br> de ingeniería</b><br>Juan Domingo Acosta García<br>(IGS Ingenieros)
               </td>
               <td class="py-3 px-4">
                 <b>¿Quiénes somos y qué buscamos?</b><br>Fátima Fuertes Neira<br>
@@ -226,7 +226,7 @@
                 <br>(Egresado ULL)
               </td>
               <td class="py-3 px-4">
-                <b>Mesa redonda en Energías Renovables</b></br>Marcial González de Armas
+                <b>Mesa redonda: <br>Energías Renovables</b></br>Marcial González de Armas
                 <br>(Egresado ULL - Capitán Renovable)
                 <br>Ricardo Luis Guerrero Lemus
                 <br>(Catedrático ULL)
@@ -234,7 +234,7 @@
                 <br>(Egresada ULL)
               </td>
               <td class="py-3 px-4">
-                <b>Proyectos ESIT: ULL-Dynamics</b></br>Guillermo Coba Afonso
+                <b>Proyectos ESIT:<br>ULL-Dynamics</b></br>Guillermo Coba Afonso
                 <br>(Estudiante ULL)
                 <br>Yared Adrián Pestana Santana
                 <br>(Estudiante ULL)
