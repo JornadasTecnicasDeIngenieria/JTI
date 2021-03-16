@@ -52,6 +52,10 @@ export default {
           image: "/img/participan/logoinnovalia.jpg",
         },
         {
+          name: "mnx",
+          image: "/img/participan/mnx.png",
+        },
+        {
           name: "Scytl",
           image: "/img/participan/logoscytl.jpg",
         },
