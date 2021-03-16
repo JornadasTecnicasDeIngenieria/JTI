@@ -97,7 +97,7 @@
                 <b>Schreiber de Canarias</b></br>Riquelme Elías</br>(Egresado ULL)
               </td>
               <td class="py-3 px-4">
-                <b>Conociendo a<br>sRed Eléctrica Corporación</b></br>Juan Fernando Figueras Torres</br>(Profesor ULL)
+                <b>Conociendo a<br>Red Eléctrica Corporación</b></br>Juan Fernando Figueras Torres</br>(Profesor ULL)
               </td>
               <td class="py-3 px-4">
                 <b>¿Qué te espera tras el fin de la carrera?</b></br>Cintia Pérez Gutiérrez</br>(Egresada ULL - HP)
